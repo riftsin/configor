@@ -1,4 +1,4 @@
-module github.com/jinzhu/configor
+module github.com/riftsin/configor
 
 go 1.16
 
